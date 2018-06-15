@@ -1,6 +1,6 @@
 # preliminaries #
 
-connection: "salesforce_data"
+connection: "snowflake_mediaid_test"
 
 include: "*.view"
 
